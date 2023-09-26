@@ -1,0 +1,82 @@
+<html>
+
+<head>
+        <title>SITE DO JEFFERSON</title>
+                                        </head>
+
+    <body>
+        <font size="3" color="blue"><ul><i><h1 id="inicio"> Criando Uma Página Web Utilizando as Tags Aprendidas</h1></i></ul>
+        </font>
+    
+       <hr />
+       <ul>
+    
+    <h2>Topicos</h2>
+
+        <li><a href="#como surgiu">Como surgiu a INTERNET?</a></li>
+            <li><a href="#como funciona">Como funciona o HTML?</a></li>
+                <li><a href="#O que são TAGS">O que são TAGS?</a></li>
+                  <li><a href="#Referençias">Referençias</a></li>
+
+        <hr />
+
+        <blockquote><h2 id="como surgiu">Como surgiu a INTERNET?</h2></blockquote>
+            <small><a href="#inicio">(Voltar)</a></small>
+
+        <hr><p><u>A história da internet começa no ambiente da Guerra Fria (1945-1991). <mark>As duas superpotências envolvidas</mark>, Estados Unidos e União Soviética, estavam divididas nos blocos socialista e capitalista e disputavam poderes e hegemonias.</u><hr/>
+
+            Com o intuito de facilitar a troca de informações, pois temiam ataques dos soviéticos, o Departamento de Defesa dos Estados Unidos (ARPA - Advanced Research Projects Agency) criou um sistema de compartilhamento de informações entre pessoas distantes geograficamente, a fim de facilitar as estratégias de guerra. Nesse momento, surge o protótipo da primeira rede de internet, a Arpanet (Advanced Research Projects Agency Network).
+            
+            Assim, no dia 29 de outubro de 1969 foi estabelecida a primeira conexão entre a Universidade da Califórnia e o Instituto de Pesquisa de Stanford. Foi um momento histórico, uma vez que o primeiro e-mail foi enviado.
+            
+            <p>Já na década de 90, o cientista, físico e professor britânico Tim Berners-Lee desenvolveu um navegador ou browser, a World Wide Web (www), a Rede Mundial de Computadores - Internet. Sua criação é responsável por apresentar ao mundo o modo como utilizamos a internet atualmente.
+            
+            Portanto, apesar de não ter sido o inventor da conexão entre computadores geograficamente distantes (a já citada Arpanet), foi o britânico quem desenvolveu o modelo que acessamos cotidianamente. A partir disso, a década de 90 ficou conhecida como o "boom da internet", pois foi quando ela se popularizou pelo mundo.
+            
+            <mark>No Brasil, a Internet surgiu no final da década de 80</mark>, quando as universidades brasileiras começam a compartilhar algumas informações com os Estados Unidos. Entretanto, foi a partir de 1989, quando se fundou a Rede Nacional de Ensino e Pesquisa (RNP), que o projeto de divulgação e acesso ganhou força.</p>
+            </p>
+       
+        </ul>
+        <hr />
+        <ul>
+            <blockquote><h2 id="como funciona"> Como funciona o HTML?</h2></blockquote>
+        <small><a href="#inicio">(Voltar)</a></small>
+
+        <p>O HTML <strong>(HyperText Markup Language)</strong> é uma linguagem de marcação utilizada para estruturar o conteúdo de uma página web. Ele opera com base em marcadores, também conhecidos como tags, que são escritos entre aspas angulares (por exemplo, "html"). Essas tags definem a aparência e a ordem interna de uma página da web, bem como os scripts ou rotinas que operam dentro dela⁸.
+
+           <strong> Cada página de um site é composta por essas tags de HTML.</strong> Elas orientam a estrutura do documento, como o tamanho da fonte, as quebras de linhas e até a cor do texto. Com essas marcações, o HTML cria estruturas e hierarquiza as informações, dividindo-as em seções⁷.
+            
+            Por exemplo, a tag "p" é usada para definir um parágrafo, enquanto a tag "title" define o título da página. Além disso, algumas tags podem ter atributos que fornecem informações extras sobre o elemento.
+            
+            <mark>É importante notar que o HTML não é uma linguagem de programação;</mark> é uma linguagem de marcação usada para definir a estrutura do seu conteúdo. Portanto, qualquer pessoa pode aprender a construir um site básico em questão de horas seguindo tutoriais e aprendendo as funções de cada código.
+            
+            </p>
+            <hr />
+            <blockquote><h2 id="O que são TAGS"> O que são TAGS?</h2></blockquote>
+            <small><a href="#inicio">(Voltar)</a></small>
+
+            <p>As tags HTML são instruções que informam ao navegador como formatar o texto. Elas são usadas para definir a estrutura de uma página da web. As tags são formadas por uma estrutura própria, <mark>iniciam com o sinal “menor que”, em seguida vem o nome daquele elemento e por fim, o sinal “maior que”. </mark>
+
+                Elas podem ser categorizadas inicialmente em dois tipos, em “nível de bloco” <mark> (block-level) </mark>e “em linha” <mark>(inline).</mark> Um elemento em nível de bloco ocupa toda a largura de seu elemento pai, que também chamamos de elemento container, criando assim um “bloco”. Já os elementos inline, geralmente usamos para demarcação de conteúdos de texto.
+                
+                Por exemplo, a tag <mark>"p"</mark> é usada para definir um parágrafo, enquanto a tag `<mark>"title"</mark> define o título da página. Além disso, algumas tags podem ter atributos que fornecem informações extras sobre o elemento.
+                
+                </p>
+               </ul> <hr />
+               <blockquote><ul> <h2 id="Referençias">Referençias</h2> <small><a href="#inicio">(Voltar)</a></small> </ul></blockquote>
+
+            <ul>
+            
+            <li><a href="https://youtu.be/F74GKCLXUWM?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n">Como a Internet chega na minha casa?</a></li>
+                <li><p><a href="https://youtu.be/UForX7ehChM?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n">Instalando todas as ferramentas - HTML5 </a></p></li>
+                <li><p><a href="https://youtu.be/su8gywwxsuI">Tags HTML 5 que melhoram o SEO das suas paginas</a></p></li>
+                </ul>
+
+</body>
+
+
+
+
+
+
+</html>
